@@ -27,7 +27,7 @@
 #include "nvram.h"
 #include "flash.h"
 #include "sysemu.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "boards.h"
 #include "qemu-log.h"
 #include "loader.h"

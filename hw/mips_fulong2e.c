@@ -21,7 +21,7 @@
 #include "net.h"
 #include "boards.h"
 #include "smbus.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "flash.h"
 #include "mips.h"
 #include "mips_cpudevs.h"

@@ -2,7 +2,7 @@
 #define QEMU_HW_SCSI_H
 
 #include "qdev.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "sysemu.h"
 
 #define MAX_SCSI_DEVS	255

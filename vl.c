@@ -136,7 +136,7 @@ int main(int argc, char **argv)
 #include "qemu-timer.h"
 #include "qemu-char.h"
 #include "cache-utils.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "blockdev.h"
 #include "block-migration.h"
 #include "dma.h"

@@ -38,7 +38,7 @@
 #include "hw.h"
 #include "flash.h"
 #include "qemu-timer.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "exec-memory.h"
 
 //#define PFLASH_DEBUG

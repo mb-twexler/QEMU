@@ -12,7 +12,7 @@
  */
 
 #include "qemu-common.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "qemu-queue.h"
 #include "qemu_socket.h"
 

@@ -65,7 +65,7 @@
 #include <hw/pc.h>
 #include <hw/pci.h>
 #include <hw/isa.h>
-#include "block.h"
+#include "qemu-block.h"
 #include "dma.h"
 
 #include <hw/ide/pci.h>

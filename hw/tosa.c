@@ -14,7 +14,7 @@
 #include "devices.h"
 #include "sharpsl.h"
 #include "pcmcia.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "boards.h"
 #include "i2c.h"
 #include "ssi.h"

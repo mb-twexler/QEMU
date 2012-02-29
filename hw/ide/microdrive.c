@@ -25,7 +25,7 @@
 #include <hw/hw.h>
 #include <hw/pc.h>
 #include <hw/pcmcia.h>
-#include "block.h"
+#include "qemu-block.h"
 #include "dma.h"
 
 #include <hw/ide/internal.h>

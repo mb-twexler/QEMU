@@ -30,7 +30,7 @@
  */
 
 #include "hw.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "sd.h"
 
 //#define DEBUG_SD 1

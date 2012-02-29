@@ -19,7 +19,7 @@
 #include "devices.h"
 #include "sharpsl.h"
 #include "console.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "audio/audio.h"
 #include "boards.h"
 #include "blockdev.h"

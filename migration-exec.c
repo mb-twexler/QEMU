@@ -18,7 +18,7 @@
 #include "migration.h"
 #include "qemu-char.h"
 #include "buffered_file.h"
-#include "block.h"
+#include "qemu-block.h"
 #include <sys/types.h>
 #include <sys/wait.h>
 

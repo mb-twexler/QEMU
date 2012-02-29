@@ -13,7 +13,7 @@
 #include <stdio.h>
 //#include "cpu.h"
 #include "hw/hw.h"
-#include "block.h"
+#include "qemu-block.h"
 
 typedef struct ScatterGatherEntry ScatterGatherEntry;
 

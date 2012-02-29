@@ -27,7 +27,7 @@
 #include <hw/pc.h>
 #include <hw/pci.h>
 #include <hw/isa.h>
-#include "block.h"
+#include "qemu-block.h"
 #include "sysemu.h"
 #include "dma.h"
 

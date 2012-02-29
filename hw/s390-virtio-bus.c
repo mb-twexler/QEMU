@@ -18,7 +18,7 @@
  */
 
 #include "hw.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "sysemu.h"
 #include "net.h"
 #include "boards.h"

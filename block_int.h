@@ -24,7 +24,7 @@
 #ifndef BLOCK_INT_H
 #define BLOCK_INT_H
 
-#include "block.h"
+#include "qemu-block.h"
 #include "qemu-option.h"
 #include "qemu-queue.h"
 #include "qemu-coroutine.h"

@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-#include "block.h"
+#include "qemu-block.h"
 #include "qdev.h"
 #include "qemu-queue.h"
 

@@ -14,7 +14,7 @@
 #include "boards.h"
 #include "pc.h"
 #include "qemu-timer.h"
-#include "block.h"
+#include "qemu-block.h"
 #include "flash.h"
 #include "console.h"
 #include "i2c.h"
